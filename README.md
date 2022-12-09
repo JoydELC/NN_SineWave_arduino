@@ -1,5 +1,5 @@
 
-## NN Sinus wave with arduino
+## NN Sine wave with arduino
 
 In the following repository we will implement a neural network with keras in order to reproduce a sinusoidal wave, once the model is trained, we will export the weights of our network in order to implement it in an arduino code.First we will create our training data, where the function **sin(x)** will be applied to a sample of 20 data from 0 to 2PI.
 
